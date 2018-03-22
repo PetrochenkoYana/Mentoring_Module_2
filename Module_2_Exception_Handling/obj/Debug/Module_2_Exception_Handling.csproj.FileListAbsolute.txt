@@ -1,0 +1,6 @@
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\Module_2_Exception_Handling.exe.config
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\Module_2_Exception_Handling.exe
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\Module_2_Exception_Handling.pdb
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\obj\Debug\Module_2_Exception_Handling.csprojResolveAssemblyReference.cache
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\obj\Debug\Module_2_Exception_Handling.exe
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\obj\Debug\Module_2_Exception_Handling.pdb
