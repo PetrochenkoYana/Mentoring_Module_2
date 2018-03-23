@@ -1,6 +1,14 @@
 c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\Module_2_Exception_Handling.exe.config
 c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\Module_2_Exception_Handling.exe
 c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\Module_2_Exception_Handling.pdb
-c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\obj\Debug\Module_2_Exception_Handling.csprojResolveAssemblyReference.cache
 c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\obj\Debug\Module_2_Exception_Handling.exe
 c:\users\yana_petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\obj\Debug\Module_2_Exception_Handling.pdb
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\Castle.Core.dll
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\Moq.dll
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\System.ValueTuple.dll
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\Castle.Core.xml
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\Moq.pdb
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\Moq.xml
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Module_2_Exception_Handling\Module_2_Exception_Handling\bin\Debug\System.ValueTuple.xml

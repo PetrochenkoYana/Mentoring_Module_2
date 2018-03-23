@@ -8,7 +8,6 @@ namespace Module_2_Exception_Handling
 {
     public interface IProcessStringData
     {
-        IReadData ReadData { get; set; }
-        void ProcessData();
+        string ProcessData(string value);
     }
 }

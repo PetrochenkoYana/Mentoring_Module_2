@@ -71,9 +71,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Module_2_Exception_Handling\Module_2_Exception_Handling.csproj">
+    <ProjectReference Include="..\Module_2_Exception_Handling\Module_2_Exception_Handling_Task1.csproj">
       <Project>{B4E36058-CB02-48D1-B3F7-E172639E5BCB}</Project>
-      <Name>Module_2_Exception_Handling</Name>
+      <Name>Module_2_Exception_Handling_Task1</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

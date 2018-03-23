@@ -13,26 +13,18 @@ namespace Module_2_Exception_Handling
     /// </summary>
     public class ProcessStringDataExceptionHandling : IProcessStringData
     {
-        public IReadData ReadData { get; set; }
-
-        public ProcessStringDataExceptionHandling(IReadData readData)
+        public string ProcessData(string value)
         {
-            ReadData = readData;
-        }
-        public void ProcessData()
-        {
-            while (true)
+            try
             {
-                try
-                {
-                    var data = ReadData.Read();
-                    Console.WriteLine(data.ToCharArray().First());
-                }
-                catch (InvalidOperationException)
-                {
-                    Console.WriteLine("String should not be empty");
-                }
+                return value.ToCharArray().First().ToString();
+            }
+            catch (InvalidOperationException)
+            {
+                Console.WriteLine("String should not be empty");
+                return null;
             }
         }
     }
 }
+
