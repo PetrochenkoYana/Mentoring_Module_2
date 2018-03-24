@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NUnit;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 using Module_2_Exception_Handling;
 
 namespace Module_2_Exception_Handling_Tests

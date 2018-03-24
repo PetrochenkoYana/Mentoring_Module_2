@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 using Module_2_Exception_Handling_Task2;
 
 namespace Module_2_Exception_Handling_Task2_Tests
@@ -13,6 +8,8 @@ namespace Module_2_Exception_Handling_Task2_Tests
     {
         [TestCase("345", 345)]
         [TestCase("045", 45)]
+        [TestCase("-2345",-2345)]
+        [TestCase("-343535", -343535)]
         public void ConvertStringToInt(string enteredString, int number)
         {
             IProcessString processString = new ProcessString();

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Module_2_Exception_Handling_Task2
 {
@@ -16,11 +12,17 @@ namespace Module_2_Exception_Handling_Task2
         public int? ConvertStringToInt(string enteredString)
         {
             int resultNumber = 0;
+            bool negativeNumber=false ;
             var charsArray = enteredString.ToCharArray();
             try
             {
                 for (int i = 0; i < charsArray.Length; i++)
                 {
+                    if (charsArray[i] == '-' && i == 0)
+                    {
+                        negativeNumber = true;
+                        continue;
+                    }
                     var p = (int) charsArray[i];
                     if (p > 57 || p < 48)
                     {
@@ -28,6 +30,8 @@ namespace Module_2_Exception_Handling_Task2
                     }
                     resultNumber += ((int)charsArray[i] - '0') * (int)(Math.Pow(10, charsArray.Length - i - 1));
                 }
+                if (negativeNumber)
+                    resultNumber *= -1;
 
             }
             catch (InvalidCastException)
